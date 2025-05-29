@@ -1,4 +1,4 @@
-# Klastering Pelanggan Berdasarkan Analisis RFM Menggunakan K-Means
+# Clustering Pelanggan UK-Based Online Retail Industry Menggunakan K-Means dan RFM Analysis
 
 ## Deskripsi Singkat Proyek dan Latar Belakang Masalah
 
