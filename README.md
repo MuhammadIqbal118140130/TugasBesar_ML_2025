@@ -30,7 +30,7 @@ jupyter notebook kmean.ipynb
 4. Pastikan file dataset tersedia di path berikut:
 ../data/Online Retail.xlsx
 
-Contoh Hasil Output dan Visualisasi
+### Contoh Hasil Output dan Visualisasi
 ![output2](https://github.com/user-attachments/assets/cb4e3252-22f2-4dab-b5e7-af40de1acf9f)
 
 Heatmap RFM tiap klaster menunjukkan perbedaan karakteristik masing-masing segmen pelanggan.
