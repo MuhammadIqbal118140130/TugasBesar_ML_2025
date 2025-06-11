@@ -11,7 +11,6 @@ Dataset yang digunakan adalah **Online Retail** dari UCI Machine Learning Reposi
 ## Algoritma yang Digunakan
 
 - **K-Means**: Digunakan sebagai algoritma klastering untuk mengelompokkan pelanggan berdasarkan nilai RFM yang telah dinormalisasi.
-- **PCA (Principal Component Analysis)**: Digunakan untuk mereduksi dimensi fitur guna visualisasi klaster secara dua dimensi.
 - **Silhouette Score**: Digunakan sebagai metrik evaluasi kualitas klastering.
 
 ## Panduan Menjalankan Kode
